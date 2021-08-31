@@ -36,3 +36,5 @@ Object.freeze(bottle);
 bottle.price = 100;//price change hobe na 
 bottle.height = 16;//height name er property nai tai etao zug hobe na
 console.log(bottle);
+
+
